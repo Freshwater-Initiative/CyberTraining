@@ -1,28 +1,28 @@
 1/26/2018  PREEVENTS Hydrology working group workshop agenda
 
-# Hands On Intro to Software 
+## Hands On Intro to Software 
 Github - invite to Freshwater-Initiative
 HydroShare - invite to Slack Channel, Do we want a PREEVENTS group? What are our HydroShare agreements are processes?
 JupyterHub
 Landlab
 
-#Slides on Architecture
+## Slides on Architecture
 Building knowledge
 Cyberinfrastructure components
 HydroShare-JH-Landlab workflow
 
-#Work through Notebooks
+## Work through Notebooks
 Get Observed Streamflow
 if time, Get Gridded HydroClimatology
 
-#Tasks/Roles: 
+## Tasks/Roles: 
 De-jargon the Conversation (List of Terms) 
 List painpoints and proposed solutions
 Updates to Github description of this workshop
 Develop PREEVENTS team communication on what we accomplished
 Build agenda for next working group meeting
 
-#Workshop Goals:
+## Workshop Goals:
 Everyone is on Github - at least one Commit to this repository
 Everyone is on Slack - add to regular workflow when using HydroShare
 Everyone is on PREEVENTS Google Team Drive - update organization and file system
