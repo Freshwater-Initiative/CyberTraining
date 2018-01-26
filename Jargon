@@ -1,0 +1,19 @@
+JARGON used in this cybertraining
+
+(for a more complete version, see plain language pdf on Hydroshare Slack, Landlab channel)
+
+Hydroshare- community supported collaborative web platform
+Landlab- modeling framework 
+CUAHSI - the organization hosting the operational versions of hydroshare…? 
+Docker Image - {code that you run to load software and execute a number of tasks}
+Distributed Data Storage - 
+Cloud based computing - via Hydroshare
+REST API - the endpoint for communicating between HydroShare and the JupyterHub instance
+HydroShare Resources - 
+Model Instance - all of the components needed to run a model: the inputs and the model, metadata...
+  Collection - grouping of resources
+  Publish - something that has it’s own webpage
+  Public - On hydroshare, requires an abstract and a keyword. Makes it so others can access. 
+Observatory - code that can be used to grab observations for anywhere
+ulmo - a package/library of code that grabs USGS data 
+json - a type of file that supports metadata, way of packaging that can be easily read
