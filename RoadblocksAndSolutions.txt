@@ -1,0 +1,23 @@
+## List of painpoints and proposed solutions
+Slack is a great place for issues/problems!
+
+How to add self to Slack channels: 
+	Click on Channels on the left panel to browse all channels, then search 
+	for #(name of channel) and click on it. Then, click "Join Channel".
+
+Joining Landlab group on Hydroshare
+	Collaborate --> Search by Group Name --> Search for "Landlab" --> Ask to join group
+
+Opening notebooks on Hydroshare
+	Click on "Open With" blue button
+	Click Jupyter Hub
+	Run cells under 1 and 2
+
+Issues with Hydroshare server opening and closing --> When to restart server?
+	Right click on Orange Planet in top left of Jupyter notebook
+	Open link in new tab
+	Click Running
+	Shutdown any unnecessary notebooks/terminals
+	
+AttributeError: Attribute 'last_refresh' does not exist in node: '/12189500'
+	In "Get Daily Streamflow Data for Sauk River near Sauk USGS (12189500)"
